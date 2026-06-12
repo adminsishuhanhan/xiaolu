@@ -1,5 +1,21 @@
 {
   "spider": "https://ncstatic.clewm.net/rsrc/2026/0531/23/43eba9a62af748f8f455d0615a578166.png",
+   "lives": [
+      {
+            "name": "每日更新",
+            "type": 0,
+            "url": "https://x08.x09.x10.mx/api/m3u-txt.php?type=txt&url=https://develop202.github.io/migu_video/interface.txt",
+            "timeout": 10,
+            "playerType": 2
+      },
+      {
+            "name": "自用大杂烩",
+            "type": 0,
+            "url": "https://codeberg.org/1102203300/api/raw/branch/main/kktvZB.json",
+            "timeout": 10,
+            "playerType": 2
+     },
+  ],
   "sites": [
     {
       "key": "豆瓣",
