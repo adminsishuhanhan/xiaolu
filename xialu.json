@@ -46,7 +46,7 @@
       "key": "布布",
       "name": "布布|4K",
       "type": 3,
-      "api": "hhttps://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/bb.js",
+      "api": "https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/bb.js",
       "style": {
         "type": "rect",
         "ratio": 1.33
