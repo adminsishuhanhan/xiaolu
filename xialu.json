@@ -1,21 +1,8 @@
 {
   "spider": "https://ncstatic.clewm.net/rsrc/2026/0531/23/43eba9a62af748f8f455d0615a578166.png",
-  "lives": [
-        {
-            "name": "每日更新",
-            "type": 0,
-            "url": "https://x08.x09.x10.mx/api/m3u-txt.php?type=txt&url=https://develop202.github.io/migu_video/interface.txt",
-            "timeout": 10,
-            "playerType": 2
-        },
-        {
-            "name": "自用大杂烩",
-            "type": 0,
-            "url": "https://codeberg.org/1102203300/api/raw/branch/main/kktvZB.json",
-            "timeout": 10,
-            "playerType": 2
-        },
-  ],
+  "logo": "https://img.cdn1.vip/i/69f63df12c7b3_1777745393.gif",
+  "wallpaper":"https://bing.img.run/rand_uhd.php",
+  "warningText": "接口完全免费，切勿贩卖购买",
   "sites": [
     {
       "key": "豆瓣",
@@ -23,29 +10,6 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
-    },
-    {
-      "key": "秒看",
-      "name": "秒看|4K",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "shturl.cc/jp7g7uxaw",
-        "dataKey": "c60d88b2eep53za8",
-        "dataIv": "c60d88b2eep53za8",
-        "token": "b008fad37a80ead49addf97984b154387fddd3fe42a81a79671281b6082bcd80"
-      }
-    },
-    {
-      "key": "星空",
-      "name": "星空|4K",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://xk99.xkgzs.xyz",
-        "dataKey": "106jkcdnkldzckjk",
-        "dataIv": "106jkcdnkldzckjk"
-      }
     },
     {
       "key": "魔方",
@@ -57,12 +21,6 @@
         "dataKey": "1234567887654321",
         "dataIv": "1234567887654321"
       }
-    },
-    {
-      "key": "枫叶",
-      "name": "枫叶|4K",
-      "type": 3,
-      "api": "https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/fengye.js"
     },
     {
       "key": "水果",
@@ -111,17 +69,6 @@
       "jar": "https://raw.gitcode.com/suixin00/0/blobs/3a29db1c6f77e278b0caf774b654eb644e339474/XM.png",
       "api": "csp_AppGet",
       "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0"
-    },
-    {
-    "key": "爱剧",
-    "name": "爱剧",
-    "type": 3,
-    "api": "shturl.cc/gv8jxqAjjH0760X0i6TiVCu6DAwZ6h1Ku2PD5tKJGePw3GFFkzNCZhxk8quYFpja",
-    "ext": "http://43.248.117.123:4680",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "jar": "https://raw.gitcode.com/suixin00/0/blobs/0aee5e4d683ae4582994fd70df37756a74b8cbca/SX.png"
     },
     {
       "key": "金牌",
