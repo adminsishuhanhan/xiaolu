@@ -23,12 +23,6 @@
       }
     },
     {
-      "key": "枫叶",
-      "name": "枫叶|4K",
-      "type": 3,
-      "api": "https://china77.hongdus.com/FY.js"
-    },
-    {
       "key": "水果",
       "name": "水果|4K",
       "type": 3,
@@ -100,37 +94,6 @@
         "url": "http://v.rbotv.cn"
       }
     },
-    {
-    "key": "秒看",
-    "name": "秒看|4K",
-    "type": 3,
-    "api": "parse",
-    "ext": {
-        "url": "https://mk1080.top/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "home": {
-            "class": [
-                {"type_id": "1", "type_name": "电影"},
-                {"type_id": "2", "type_name": "电视剧"},
-                {"type_id": "3", "type_name": "综艺"},
-                {"type_id": "4", "type_name": "动漫"},
-                {"type_id": "5", "type_name": "短剧"}
-            ],
-            "list": "//div[contains(@class,'public-list-box') or contains(@class,'video-item')]",
-            "vod_id": "./a/@href|detail/|.html",
-            "vod_name": "./a/@title",
-            "vod_pic": "./a/img/@data-src|./a/img/@src"
-        },
-        "detail": {
-            "vod_name": "//h1/text()|//h2/text()",
-            "vod_pic": "//div[contains(@class,'detail-pic')]/img/@data-src|//div[contains(@class,'thumb')]/img/@src",
-            "vod_play_url": "//div[contains(@class,'anthology-list-box')]/ul/li/a/@href|#"
-        },
-        "play": {
-            "parse": 1
-        }
-    }
-},
     {
       "key": "荐片",
       "name": "荐片",
