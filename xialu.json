@@ -26,21 +26,21 @@
       "key": "水果",
       "name": "水果|4K",
       "type": 3,
-      "api": "http://china77.hongdus.com/0.js",
-      "ext": "http://china77.hongdus.com/mg.png"
+      "api": "https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/shuiguo.api",
+      "ext": "https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/shuiguo.js"
     },
     {
       "key": "企鹅",
       "name": "企鹅|4K",
       "type": 3,
-      "api": "http://china77.hongdus.com/0.js",
-      "ext": "http://china77.hongdus.com/qq.png"
+      "api": "https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/shuiguo.api",
+      "ext": "https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/qier.js"
     },
     {
       "key": "布布",
       "name": "布布|4K",
       "type": 3,
-      "api": "http://china77.hongdus.com/BB.js",
+      "api": "https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/bb.js",
       "style": {
         "type": "rect",
         "ratio": 1.33
@@ -50,7 +50,7 @@
       "key": "4K影院",
       "name": "光影|4K",
       "type": 3,
-      "jar": "https://raw.gitcode.com/suixin00/0/blobs/3a29db1c6f77e278b0caf774b654eb644e339474/XM.png",
+      "jar": "https://ncstatic.clewm.net/rsrc/2026/0613/04/b0e311032cd68d83a0c84b4d32618aeb.png",
       "api": "csp_AppGet",
       "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/601.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
     },
@@ -58,7 +58,7 @@
       "key": "爱影视",
       "name": "爱影|4K",
       "type": 3,
-      "jar": "https://raw.gitcode.com/suixin00/0/blobs/3a29db1c6f77e278b0caf774b654eb644e339474/XM.png",
+      "jar": "https://ncstatic.clewm.net/rsrc/2026/0613/04/b0e311032cd68d83a0c84b4d32618aeb.png",
       "api": "csp_AppGet",
       "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"
     },
@@ -66,7 +66,7 @@
       "key": "四叶草",
       "name": "四叶|4K",
       "type": 3,
-      "jar": "https://raw.gitcode.com/suixin00/0/blobs/3a29db1c6f77e278b0caf774b654eb644e339474/XM.png",
+      "jar": "https://ncstatic.clewm.net/rsrc/2026/0613/04/b0e311032cd68d83a0c84b4d32618aeb.png",
       "api": "csp_AppGet",
       "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0"
     },
@@ -74,7 +74,7 @@
       "key": "爱剧",
       "name": "爱剧",
       "type": 3,
-      "api": "https://ghproxy.net/raw.githubusercontent.com/s-7-7/0/refs/heads/0/ppx.py",
+      "api": "https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/aiju.js",
       "ext": "http://43.248.117.123:4680"
     },
     {
@@ -97,7 +97,7 @@
     {
       "key": "荐片",
       "name": "荐片",
-      "jar": "https://raw.gitcode.com/suixin00/0/blobs/3a29db1c6f77e278b0caf774b654eb644e339474/XM.png",
+      "jar": "https://ncstatic.clewm.net/rsrc/2026/0613/04/b0e311032cd68d83a0c84b4d32618aeb.png",
       "type": 3,
       "api": "csp_Jianpian",
       "style": {
@@ -116,7 +116,7 @@
     {
       "key": "瓜子",
       "name": "瓜子",
-      "jar": "https://raw.gitcode.com/suixin00/0/blobs/3a29db1c6f77e278b0caf774b654eb644e339474/XM.png",
+      "jar": "https://ncstatic.clewm.net/rsrc/2026/0613/04/b0e311032cd68d83a0c84b4d32618aeb.png",
       "type": 3,
       "api": "csp_Gz360"
     },
