@@ -1,0 +1,173 @@
+{
+  "spider": "https://ncstatic.clewm.net/rsrc/2026/0612/23/66124cad732e15575730089a843b6d5e.png",
+  "sites": [
+    {
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+    {
+      "key": "秒看",
+      "name": "秒看|4K",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "shturl.cc/jp7g7uxaw",
+        "dataKey": "c60d88b2eep53za8",
+        "dataIv": "c60d88b2eep53za8",
+        "token": "b008fad37a80ead49addf97984b154387fddd3fe42a81a79671281b6082bcd80"
+      }
+    },
+    {
+      "key": "星空",
+      "name": "星空|4K",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://xk99.xkgzs.xyz",
+        "dataKey": "106jkcdnkldzckjk",
+        "dataIv": "106jkcdnkldzckjk"
+      }
+    },
+    {
+      "key": "魔方",
+      "name": "魔方|4K",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.26mf4k.top",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321"
+      }
+    },
+    {
+      "key": "枫叶",
+      "name": "枫叶|4K",
+      "type": 3,
+      "api": "http://china77.hongdus.com/FY.js"
+    },
+    {
+      "key": "水果",
+      "name": "水果|4K",
+      "type": 3,
+      "api": "http://china77.hongdus.com/0.js",
+      "ext": "http://china77.hongdus.com/mg.png"
+    },
+    {
+      "key": "企鹅",
+      "name": "企鹅|4K",
+      "type": 3,
+      "api": "http://china77.hongdus.com/0.js",
+      "ext": "http://china77.hongdus.com/qq.png"
+    },
+    {
+      "key": "布布",
+      "name": "布布|4K",
+      "type": 3,
+      "api": "http://china77.hongdus.com/BB.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "4K影院",
+      "name": "光影|4K",
+      "type": 3,
+      "jar": "https://raw.gitcode.com/suixin00/0/blobs/3a29db1c6f77e278b0caf774b654eb644e339474/XM.png",
+      "api": "csp_AppGet",
+      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/601.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
+    },
+    {
+      "key": "爱影视",
+      "name": "爱影|4K",
+      "type": 3,
+      "jar": "https://raw.gitcode.com/suixin00/0/blobs/3a29db1c6f77e278b0caf774b654eb644e339474/XM.png",
+      "api": "csp_AppGet",
+      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"
+    },
+    {
+      "key": "四叶草",
+      "name": "四叶|4K",
+      "type": 3,
+      "jar": "https://raw.gitcode.com/suixin00/0/blobs/3a29db1c6f77e278b0caf774b654eb644e339474/XM.png",
+      "api": "csp_AppGet",
+      "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0"
+    },
+    {
+      "key": "爱剧",
+      "name": "爱剧",
+      "type": 3,
+      "api": "shturl.cc/gv8jxqAjH076OX0i6TiVCu6DAwZ6hlKu2PD5tKJGePw3GFFkzNCZhxk8quYFpja",
+      "ext": "http://43.248.117.123:4680"
+    },
+    {
+      "key": "金牌",
+      "name": "金牌",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Jpys",
+      "ext": "https://m.sizhengxt.com"
+    },
+    {
+      "key": "热播",
+      "name": "热播",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "荐片",
+      "name": "荐片",
+      "jar": "https://raw.gitcode.com/suixin00/0/blobs/3a29db1c6f77e278b0caf774b654eb644e339474/XM.png",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      },
+      "ext": "https://api.ztcgi.com"
+    },
+    {
+      "key": "农民",
+      "name": "农民",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200"
+    },
+    {
+      "key": "瓜子",
+      "name": "瓜子",
+      "jar": "https://raw.gitcode.com/suixin00/0/blobs/3a29db1c6f77e278b0caf774b654eb644e339474/XM.png",
+      "type": 3,
+      "api": "csp_Gz360"
+    },
+    {
+      "key": "骚火",
+      "name": "骚火",
+      "type": 3,
+      "api": "csp_SaoHuo"
+    }
+  ],
+  "parses": [
+    {
+      "name": "4K",
+      "type": 1,
+      "url": "http://106.12.58.21:5657/1/xkMg.php/?url="
+    },
+    {
+      "name": "4K②",
+      "type": 1,
+      "url": "http://106.12.58.21:5657/Vqq5656.php/?url="
+    },
+    {
+      "name": "蓝光",
+      "type": 1,
+      "url": "https://player.gimy.bot/u/parse.php?url="
+    }
+  ]
+}
