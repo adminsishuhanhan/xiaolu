@@ -26,27 +26,27 @@
       "key": "枫叶",
       "name": "枫叶|4K",
       "type": 3,
-      "api": "https://Clearlove.vxni.ink/FY.js"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/adminsishuhanhan/peizhi/refs/heads/main/FY.js"
     },
     {
       "key": "水果",
       "name": "水果|4K",
       "type": 3,
-      "api": "https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/shuiguo.api",
-      "ext": "https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/shuiguo.js"
+      "api": "https://gh-proxy.com/https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/shuiguo.api",
+      "ext": "https://gh-proxy.com/https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/shuiguo.js"
     },
     {
       "key": "企鹅",
       "name": "企鹅|4K",
       "type": 3,
-      "api": "https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/shuiguo.api",
-      "ext": "https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/qier.js"
+      "api": "https://gh-proxy.com/https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/shuiguo.api",
+      "ext": "https://gh-proxy.com/https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/qier.js"
     },
     {
       "key": "布布",
       "name": "布布|4K",
       "type": 3,
-      "api": "https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/bb.js",
+      "api": "https://gh-proxy.com/https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/bb.js",
       "style": {
         "type": "rect",
         "ratio": 1.33
