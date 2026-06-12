@@ -62,7 +62,7 @@
       "key": "枫叶",
       "name": "枫叶|4K",
       "type": 3,
-      "api": "https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/fengye.js?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJmZW5neWUuanMiLCJ1aWQiOjE2ODk5NjM0LCJwaWQiOjQ4Mzk3MzkxLCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTEwdC0wMTMiLCJycCI6InJlcG9zL2UzLzNmL2UzM2YzNzU3MWNmOWQzZjcwNTA2YzU5MDJiODQ2ZjRkZjgyMDc0YzU4ODBmODJmNTI0MzgyYTMwZjAwYjkwMWMuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3ODEyOTQ0MDB9&signature=I0pz1LnXfRrVwjVEy6DQsmZjHlxU02S1a2CcHaqPSKg"
+      "api": "https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/fengye.js"
     },
     {
       "key": "水果",
