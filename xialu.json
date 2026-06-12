@@ -113,11 +113,15 @@
       "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0"
     },
     {
-      "key": "爱剧",
-      "name": "爱剧",
-      "type": 3,
-      "api": "http://43.248.117.123:4680",
-      "ext": "http://43.248.117.123:4680"
+    "key": "爱剧",
+    "name": "爱剧",
+    "type": 3,
+    "api": "shturl.cc/gv8jxqAjjH0760X0i6TiVCu6DAwZ6h1Ku2PD5tKJGePw3GFFkzNCZhxk8quYFpja",
+    "ext": "http://43.248.117.123:4680",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar": "https://raw.gitcode.com/suixin00/0/blobs/0aee5e4d683ae4582994fd70df37756a74b8cbca/SX.png"
     },
     {
       "key": "金牌",
