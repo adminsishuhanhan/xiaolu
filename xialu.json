@@ -74,7 +74,7 @@
       "key": "爱剧",
       "name": "爱剧",
       "type": 3,
-      "api": "https://raw.giteeusercontent.com/gou-za-zhong/peizhi.json/raw/master/aiju.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/adminsishuhanhan/peizhi/refs/heads/main/aiju.py",
       "ext": "http://43.248.117.123:4680"
     },
     {
