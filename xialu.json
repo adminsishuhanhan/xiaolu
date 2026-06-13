@@ -59,6 +59,14 @@
       "ext": "https://qp.69mini.com/api.php/app/"
     },
     {
+      "key": "bl",
+      "name": "主·Bl4K-60帧",
+      "playerType": "2",
+      "type": 3,
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/lib1/bili.js"
+    },
+    {
       "key": "4K影院",
       "name": "光影|4K",
       "type": 3,
