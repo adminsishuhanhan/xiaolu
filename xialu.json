@@ -66,6 +66,30 @@
       "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
       "ext": "https://app.69mini.com/lib1/bili.js"
     },
+     {
+      "key": "华数",
+      "name": "主·Hs2K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://wa.69mzf.cn/api.php/app/"
+    },
+    {
+      "key": "4kvm",
+      "name": "备·4Kvm",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cz.69mzf.cn/api.php/app/"
+    },
     {
       "key": "4K影院",
       "name": "光影|4K",
