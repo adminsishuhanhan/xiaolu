@@ -12,46 +12,6 @@
       "searchable": 0
     },
     {
-      "key": "干饭",
-      "name": "┃干饭┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/88eef0fc9229baac/PandaQ260225.png;md5;43439ab24ef55a81150ca64aa9383da2",
-      "ext": "http://122.114.171.79:568/huohushipin.txt|huohushipingetap"
-    },
-    {
-      "key": "行动",
-      "name": "😌┃行动┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/88eef0fc9229baac/PandaQ260225.png;md5;43439ab24ef55a81150ca64aa9383da2",
-      "ext": "http://165.99.42.137:5432|1234567890987654"
-    },
-    {
-      "key": "猫抓",
-      "name": "🐱┃猫抓┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/88eef0fc9229baac/PandaQ260225.png;md5;43439ab24ef55a81150ca64aa9383da2",
-      "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
-     },
-     {
-      "key": "黑猫",
-      "name": "🐼┃黑猫┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/88eef0fc9229baac/PandaQ260225.png;md5;43439ab24ef55a81150ca64aa9383da2",
-      "ext": "https://uutu.efjhl.cn|uXVVRRuaPnjEfsX5"
-    },
-    {
-      "key": "兔子",
-      "name": "🐇┃兔子┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/88eef0fc9229baac/PandaQ260225.png;md5;43439ab24ef55a81150ca64aa9383da2",
-      "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
-    },
-    {
       "key": "魔方",
       "name": "魔方|4K",
       "type": 3,
@@ -85,6 +45,18 @@
         "type": "rect",
         "ratio": 1.33
       }
+    },
+    {
+      "key": "JD",
+      "name": "主·New4K-60帧",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://qp.69mini.com/api.php/app/"
     },
     {
       "key": "4K影院",
