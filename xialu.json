@@ -12,6 +12,18 @@
       "searchable": 0
     },
     {
+     "key": "荐片",
+     "name": "荐片",
+     "jar": "https://ncstatic.clewm.net/rsrc/2026/0613/04/b0e311032cd68d83a0c84b4d32618aeb.png",
+     "type": 3,
+     "api": "csp_Jianpian",
+     "style": {
+     "type": "rect",
+     "ratio": 1.333
+    },
+     "ext": "https://api.ztcgi.com"
+    },
+    {
       "key": "久久",
       "name": "久久｜APP",
       "type": 3,
@@ -111,18 +123,6 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       }
-    },
-    {
-      "key": "荐片",
-      "name": "荐片",
-      "jar": "https://ncstatic.clewm.net/rsrc/2026/0613/04/b0e311032cd68d83a0c84b4d32618aeb.png",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "ext": "https://api.ztcgi.com"
     },
     {
       "key": "农民",
